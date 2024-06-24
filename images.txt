@@ -1,4 +1,4 @@
-nacos-server:v2.1.0-slim
+nacos/nacos-server:v2.1.0-slim
 openjdk:11.0-jre-buster
 nginx:1.21
 nginx:1.22
